@@ -1,5 +1,16 @@
-double CalcArea(int r)
+//begin question
+void CalcArea(int r)
 {
   double area = r * r * Math.PI;
-  return area; //<--- answer (omit from test)
+  return area; 
 }
+//end question
+
+
+//begin answer
+double CalcArea (int r)
+{
+  double area = r * r * Math.PI;
+  return area; 
+}
+//end answer
